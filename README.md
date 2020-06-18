@@ -1,5 +1,5 @@
 # Sanremo-Project
-An analysis about the public opinion on Sanremo Music Festival 2020 expressed on Twitter.\\
+An analysis about the public opinion on Sanremo Music Festival 2020 expressed on Twitter.
 Hello world!
 This is my project, a Sentiment Analysis on Sanremo.
 4 files are attached:
